@@ -4,7 +4,7 @@ const Navbar = () => (
   <nav className="navbar navbar-expand navbar-dark bg-dark mb-4">
     <div className="container">
       <a className="navbar-brand" href="#">
-        <img src="../static/bitcoin.png" width="30" height="30" class="d-inline-block align-top mr-2" alt=""/>
+        <img src="../static/bitcoin.png" width="30" height="30" className="d-inline-block align-top mr-2" alt=""/>
           BC-Price
       </a>
         <div className="collapse navbar-collapse">
