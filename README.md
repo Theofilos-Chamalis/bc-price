@@ -2,6 +2,11 @@
 
 > A simple Next.js web which presents the current Bitcoin value in USD, GBP and EUR
 
+## Screenshots
+
+<h3>Home Page</h3>
+<img src="github-screenshots/homepage.png">
+
 ## Quick Start
 
 ``` bash
@@ -14,8 +19,6 @@ npm run dev
 # Build for production
 npm run build
 ```
-
-## App Info
 
 ### Author
 
