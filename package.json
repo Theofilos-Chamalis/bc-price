@@ -1,0 +1,21 @@
+{
+  "name": "bc-price",
+  "version": "1.0.0",
+  "description": "A simple Next.js based web app to view the current bitcoin prices",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Theofilos Chamalis",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
