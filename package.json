@@ -1,6 +1,6 @@
 {
   "name": "bc-price",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple Next.js based web app to view the current bitcoin prices",
   "private": true,
   "main": "index.js",
@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
-    "next": "^9.3.1",
+    "next": "^9.5.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
