@@ -1,6 +1,6 @@
 # BC-Price
 
-> A simple Next.js web which presents the current Bitcoin value in USD, GBP and EUR
+A simple Next.js web application which presents the current Bitcoin value in USD, GBP and EUR
 
 ## Screenshots
 
