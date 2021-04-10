@@ -5,9 +5,10 @@
   "private": true,
   "main": "index.js",
   "scripts": {
-    "dev": "next",
+    "dev": "npm run open-browser && next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "open-browser": "open http://localhost:3000"
   },
   "keywords": [],
   "author": "Theofilos Chamalis",
