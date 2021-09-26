@@ -6,9 +6,10 @@
   "main": "index.js",
   "scripts": {
     "dev": "npm run open-browser && next",
-    "build": "next build && next export",
+    "build_static": "next build && next export",
+    "build":"next build",
     "start": "next start",
-    "deploy": "npm run build && gh-pages -d out",
+    "deploy": "npm run build_static && gh-pages -d out",
     "open-browser": "open http://localhost:3000"
   },
   "keywords": [],
