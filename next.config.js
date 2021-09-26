@@ -1,5 +1,7 @@
 module.exports = {
-    future: {
-        webpack5: true,
+    reactStrictMode: true,
+    images: {
+        domains: [], //Useful for retrieving and optimizing images with next/image component
     },
-}
+    poweredByHeader: false,
+};
