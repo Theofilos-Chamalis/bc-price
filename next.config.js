@@ -4,4 +4,5 @@ module.exports = {
         domains: [], //Useful for retrieving and optimizing images with next/image component
     },
     poweredByHeader: false,
+    target: "serverless"
 };
