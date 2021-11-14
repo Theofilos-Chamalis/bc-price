@@ -19,7 +19,7 @@ export async function getStaticProps() {
         props: {
             bpi: data.bpi
         },
-        revalidate: 30
+        revalidate: 10
     }
 }
 

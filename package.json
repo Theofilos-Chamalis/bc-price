@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "npm run open-browser && next",
     "build_static": "next build && next export",
-    "build":"next build",
+    "build": "next build",
     "start": "next start",
     "deploy": "npm run build_static && gh-pages -d out",
     "open-browser": "open http://localhost:3000"
@@ -16,7 +16,7 @@
   "author": "Theofilos Chamalis",
   "license": "ISC",
   "dependencies": {
-    "next": "^11.1.2",
+    "next": "^12.0.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },

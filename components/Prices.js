@@ -25,9 +25,9 @@ class Prices extends React.Component {
                     <div className="card-header">
                         Bitcoin rate for {this.props.bpi[this.state.currency].description}
                     </div>
-                    <div className="card-body">
-                        <span className="badge badge-primary">{this.props.bpi[this.state.currency].code}</span>
-                        <strong>{' ' + this.props.bpi[this.state.currency].rate}</strong>
+                    <div className="card-body d-flex">
+                        <span className="badge badge-primary mt-1 mb-1 mr-2">{this.props.bpi[this.state.currency].code}</span>
+                        <span><strong>{' ' + this.props.bpi[this.state.currency].rate}</strong></span>
                     </div>
                 </div>
             </React.Fragment>
