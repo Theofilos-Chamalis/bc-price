@@ -16,7 +16,7 @@
   "author": "Theofilos Chamalis",
   "license": "ISC",
   "dependencies": {
-    "@preact/compat": "^17.1.0",
+    "@preact/compat": "^17.1.1",
     "bootswatch": "^4.6.1",
     "next": "^12.1.6",
     "preact": "^10.7.3"
