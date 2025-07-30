@@ -18,7 +18,7 @@
   "dependencies": {
     "@preact/compat": "^17.1.2",
     "bootswatch": "^4.6.1",
-    "next": "^15.4.4",
+    "next": "^15.4.5",
     "preact": "^10.27.0"
   },
   "devDependencies": {
