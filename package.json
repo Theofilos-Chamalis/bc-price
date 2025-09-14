@@ -19,7 +19,7 @@
     "@preact/compat": "^17.1.2",
     "bootswatch": "^4.6.1",
     "next": "^15.5.3",
-    "preact": "^10.27.1"
+    "preact": "^10.27.2"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
